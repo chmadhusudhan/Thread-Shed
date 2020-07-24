@@ -151,23 +151,3 @@ colors = ['red','yellow','green','white','black','blue','purple']
 
 for color in colors:
   print("{a} threads of {b} were sold today".format(a = color_count(color), b = color))
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
